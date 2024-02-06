@@ -1,6 +1,6 @@
 # Python-para-Analise-de-Dados
 
-![EBAC](./Python-para-Analise-de-Dados/logo-Ebac.png)
+![EBAC](./caroline-cdz/Python-para-Analise-de-Dados/logo-Ebac.png)
 
 
 
